@@ -1,0 +1,10 @@
+<Device Model="CP3N">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-VEQ4" DeviceId="12" Name="C2N-VEQ4 (2 Series)"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DM-XIO-DIR-80" DeviceId="03"/>
+      <Device Model="Crestron_App" DeviceId="04" Name="Crestron App"/>
+      <Device Model="Crestron_App" DeviceId="05" Name="Crestron App"/>
+   </Network>
+</Device>
